@@ -4,4 +4,5 @@ import { Friend } from './friend';
 import { Tag } from './tag';
 import { TagsRequestFilter } from './tag-request-filter';
 import { User } from './user';
-export { DiaryEntry, DiaryEntrySet, Friend, Tag, TagsRequestFilter, User };
+import { ListResponse } from './list-response';
+export { DiaryEntry, DiaryEntrySet, Friend, Tag, TagsRequestFilter, User, ListResponse };
