@@ -1,0 +1,16 @@
+{
+  "name": "ng2-diary-book-shared-models",
+  "version": "1.0.4",
+  "description": "",
+  "main": "src/main.js",
+  "types": "src/main.d.ts",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
